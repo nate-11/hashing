@@ -4,9 +4,6 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
 import java.util.Scanner;
-
-//import jdk.internal.org.jline.utils.InputStreamReader;
-
 public class HashingExample {
 
   public static void main(String[] args) {
